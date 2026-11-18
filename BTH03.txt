@@ -1,0 +1,20 @@
+[Bài thực hành 3] Phân tích và giải quyết tình huống khách hàng khiếu nại
+Phần 1: Prompt
+- Vai trò CX Manager. Dùng Chain-of-Thought phân tích khiếu nại laptop (mua 10 ngày, nóng, quạt kêu, pin 2h, bảo hành hỏng lại):
+1. Xác định vấn đề & mức độ nghiêm trọng.
+2. Phân tách Dữ kiện - Giả thuyết - Chưa rõ (không tự giả định chính sách).
+3. Đề xuất 2 phương án (kèm Ưu/Nhược).
+4. Soạn thư phản hồi ngắn gọn.
+Phần 2: Kết quả rút gọn
+- Vấn đề: Máy lỗi nặng (nóng, quạt to, pin yếu) + Dịch vụ bảo hành kém 
+- Phân tách vấn đề : 
++ Dữ liệu : mua 10 ngày, lỗi nặng,khách đòi đổi/hoàn tiền
++ Chưa rõ : chính sách đổi trả của cửa hàng
+--> 2 phương án khả thi : 
+- (Kiểm tra kỹ thuật sâu): Chuẩn quy trình, an toàn -> Khách mất thời gian.
+- (Linh động đổi máy mới): Khách hài lòng ngay -> Rủi ro tài chính.
+
+
+[Thư Phản Hồi]
+             - Chào anh/chị, cửa hàng đã tiếp nhận thông tin và xin lỗi vì sự bất tiện của bạn. Mời anh/chị mang máy đến cưa hàng để chúng tôi có thể
+          trực tiếp kiểm tra và hỗ trợ xử lí trực tiếp theo đúng cam kết. Vui lòng liên hệ với chúng tôi để đặt lịch.
